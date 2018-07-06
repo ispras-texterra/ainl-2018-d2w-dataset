@@ -1,4 +1,4 @@
-# ainl-2018-d2w-datasest
+# ainl-2018-d2w-dataset
 
 Dataset, used for experiments in AINL-2018 paper "Smart Context Generation for Disambiguation to Wikipedia" by Andrey Sysoev and Irina Nikishina.
 
